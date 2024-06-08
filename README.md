@@ -1,5 +1,8 @@
 
 # Shopping Cart Project using React
+
+# Live Link
+https://shoing-cart.netlify.app/
 # Overview
 This project is a simple yet powerful shopping cart application built using React. It allows users to browse through a variety of products, 
 add them to their cart, and proceed to checkout. The application is designed with a responsive and intuitive user interface, making it easy for 
